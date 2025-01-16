@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Grigoriy. Svalyava, Ukraine
 - 👀 I’m interested in many things
-- 🌱 I’m currently learning JS, TS< React
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me @grigliz (on Telegram) or +380955932605 (by cellphone)
+- 🌱 I’m currently learning Python
 
 <!---
 grigliz80/grigliz80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
