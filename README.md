@@ -1,8 +1,26 @@
-- 👋 Hi, I’m Grigoriy. Svalyava, Ukraine
-- 👀 I’m interested in many things
-- 🌱 I’m currently learning Python
+# Grytsian | Python Developer in progress 🚀
 
-<!---
-grigliz80/grigliz80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You SNOVA NOVIE IZMENENIYA + Ujj can click the Preview link to take a look at your changes.
--->
+🇺🇦 Ukraine  
+🐍 Learning Python deeply (algorithms, OOP, testing)  
+⚙️ Building discipline through Git, LeetCode & real projects
+
+
+## 🛠 Tech Stack
+- Python
+- Git & GitHub
+- Linux
+- VSCode
+- Pytest (learning)
+
+
+## 🎯 Current Focus
+- Mastering Git workflow
+- Solving algorithmic problems
+- Building structured Python projects
+
+
+## 📌 Featured Projects
+- Python Homework Repository (in progress)
+- Algorithms Practice (coming soon)
+
+
