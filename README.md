@@ -1,4 +1,4 @@
-# Grytsian | Python Developer in progress 🚀
+# Grygoriy Lizanets | Python Developer in progress 🚀
 
 🇺🇦 Ukraine  
 🐍 Learning Python deeply (algorithms, OOP, testing)  
