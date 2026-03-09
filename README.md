@@ -1,26 +1,36 @@
-# Grygoriy Lizanets | Python Developer in progress 🚀
+# Hi, I'm Grigoriy 👋
 
 🇺🇦 Ukraine  
-🐍 Learning Python deeply (algorithms, OOP, testing)  
-⚙️ Building discipline through Git, LeetCode & real projects
 
+Python developer in progress 🚀
 
-## 🛠 Tech Stack
+---
+
+## 🔧 Tech Stack
+
 - Python
 - Git & GitHub
 - Linux
-- VSCode
-- Pytest (learning)
+- VS Code
+- Pytest
 
+---
 
-## 🎯 Current Focus
-- Mastering Git workflow
-- Solving algorithmic problems
-- Building structured Python projects
+## 📚 Currently learning
 
+- Algorithms
+- OOP
+- Test Driven Development
+- Backend development
 
-## 📌 Featured Projects
-- Python Homework Repository (in progress)
-- Algorithms Practice (coming soon)
+---
 
+## 🚀 Projects
 
+Coming soon...
+
+---
+
+## 📫 Contact
+
+GitHub: https://github.com/grigliz80
